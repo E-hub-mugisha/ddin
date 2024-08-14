@@ -28,7 +28,7 @@
         </div>
     </div>
 </div> -->
-@include('includes.banner')
+@include('includes.banner1')
 <!-- ============================ Hero Banner End ================================== -->
 <!-- ============================ Reason For Love Us Start ================================== -->
 <section class="pt-8">
@@ -39,7 +39,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi">
                     <div class="position-relative">
-                        <img src="assets/img/image1.png" class="img-fluid" alt="">
+                        <img src="assets/img/picture1.png" style="transform: rotate(15deg);" class="img-fluid" alt="">
                     </div>
                     <!-- <div class="position-absolute start-0 bottom-0 pb-4 ps-4">
                         <div class="dlick-img mb-2"><img src="assets/img/lists-2.png" class="img-fluid rounded-2" width="190" alt=""></div>
@@ -52,7 +52,7 @@
                 <div class="position-relative exloi mt-md-0 mt-4">
                     <div class="exloi-caption">
                         <div class="label text-primary bg-light-warning d-inline-flex rounded-4 mb-2 font--medium"><span>who we are</span></div>
-                        <h2 class="mb-3 lh-base">Agent Network with<span style="color: #F8882B;"> 4000+ Experts</span></h2>
+                        <h2 class="mb-3 lh-base">Agent Network with<span style="color: #F8882B;"> 4200+ Experts</span></h2>
                         <p class="mb-0 fs-5 fw-light">DDIN serves as a management platform for a network of independent agents located throughout the country.
 
                             We bring together various services offered by different institutions, organizations or companies onto a single platform. </p>
@@ -73,7 +73,7 @@
                     <div class="exloi-caption">
                         <div class="label text-danger bg-light-warning d-inline-flex rounded-4 mb-2 font--medium"><span>we stand</span></div>
                         <h2 class="mb-3 lh-base"><span style="color: #F8882B;">DDIN ranks among the foremost </span> network companies in Rwanda</h2>
-                        <p class="mb-0 fw-light fs-5">DDIN stands as the top agent network company in Rwanda, boasting 4000+ seasoned representatives countrywide. We bring together a variety of services from various organizations onto a single, unified platform.</p>
+                        <p class="mb-0 fw-light fs-5">DDIN stands as the top agent network company in Rwanda, boasting 4200+ seasoned representatives countrywide. We bring together a variety of services from various organizations onto a single, unified platform.</p>
 
                     </div>
                 </div>

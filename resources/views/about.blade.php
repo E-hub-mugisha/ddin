@@ -68,14 +68,14 @@
                             <ul>
                                 <li>
                                     <div class="lios-parts mx-3">
-                                        <h2><span class="ctr me-1">3200</span><span class="text-danger" style="color: #F8882B;">+</span></h2>
+                                        <h2><span class="ctr me-1">4200</span><span class="text-danger" style="color: #F8882B;">+</span></h2>
                                         <h6 class="text-muted">Agent network</h6>
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="lios-parts mx-3">
-                                        <h2><span class="ctr">7000</span><span class="text-danger" style="color: #F8882B;">+</span></h2>
+                                        <h2><span class="ctr">6900</span><span class="text-danger" style="color: #F8882B;">+</span></h2>
                                         <h6 class="text-muted">Agent network targeting by 2024</h6>
                                     </div>
                                 </li>

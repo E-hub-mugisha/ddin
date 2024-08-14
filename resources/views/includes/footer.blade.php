@@ -77,7 +77,7 @@
                     <div class="job-info-count-group">
                         <div class="single-jb-info-count">
                             <div class="jbs-y7">
-                                <h5 class="ctr">359</h5><span class="theme-2-cl">+</span>
+                                <h5 class="ctr">1018</h5><span class="theme-2-cl">+</span>
                             </div>
                             <div class="jbs-y5">
                                 <p>Kigali City</p>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="single-jb-info-count">
                             <div class="jbs-y7">
-                                <h5 class="ctr">251</h5><span class="theme-2-cl">+</span>
+                                <h5 class="ctr">807</h5><span class="theme-2-cl">+</span>
                             </div>
                             <div class="jbs-y5">
                                 <p>Southern Province</p>
@@ -93,7 +93,7 @@
                         </div>
                         <div class="single-jb-info-count">
                             <div class="jbs-y7">
-                                <h5 class="ctr">241</h5><span class="theme-2-cl">+</span>
+                                <h5 class="ctr">771</h5><span class="theme-2-cl">+</span>
                             </div>
                             <div class="jbs-y5">
                                 <p>Northern Province</p>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="single-jb-info-count">
                             <div class="jbs-y7">
-                                <h5 class="ctr">216</h5><span class="theme-2-cl">+</span>
+                                <h5 class="ctr">682</h5><span class="theme-2-cl">+</span>
                             </div>
                             <div class="jbs-y5">
                                 <p>Eastern Province</p>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="single-jb-info-count">
                             <div class="jbs-y7">
-                                <h5 class="ctr">303</h5><span class="theme-2-cl">+</span>
+                                <h5 class="ctr">922</h5><span class="theme-2-cl">+</span>
                             </div>
                             <div class="jbs-y5">
                                 <p>Western Province</p>

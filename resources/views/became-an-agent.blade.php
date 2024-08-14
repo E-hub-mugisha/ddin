@@ -169,7 +169,7 @@
                         <h2 class="mb-3 lh-base">Empowering Customers through a Nationwide Network of Independent Agents</h2>
                         <p class="mb-0 fs-5 fw-light">We support decentralizing services for customers through our network of independent agents across the country.
                             Through ongoing orientation and refresher training, our agents acquire the modern skills needed to complete assigned work flawlessly.</p>
-                        <div class="lios-vrst mb-0">
+                        <!-- <div class="lios-vrst mb-0">
                             <ul>
                                 <li>
                                     <div class="lios-parts">
@@ -192,7 +192,7 @@
                                     </div>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

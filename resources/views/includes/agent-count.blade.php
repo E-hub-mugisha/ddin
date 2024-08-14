@@ -11,31 +11,31 @@
 
             <div class="card border-0 bg-light-success rounded-4 mx-3 col-md-2 wow animated fadeInUp">
                 <div class="card-body">
-                    <h3 class="fs-1"><span class="ctr me-1">359</span>+</h3>
+                    <h3 class="fs-1"><span class="ctr me-1">1018</span>+</h3>
                     <p class="fs-sm font--medium mb-0 text-success">Kigali City</p>
                 </div>
             </div>
             <div class="card border-0 bg-light-warning rounded-4 mx-3 my-3 col-md-2 mt-4 wow animated fadeInUp">
                 <div class="card-body">
-                    <h3 class="fs-1"><span class="ctr me-1">251</span>+</h3>
+                    <h3 class="fs-1"><span class="ctr me-1">807</span>+</h3>
                     <p class="fs-sm font--medium mb-0 text-warning">Southern Province</p>
                 </div>
             </div>
             <div class="card border-0 bg-light-info rounded-4 mx-3 my-3 col-md-2 mt-4 wow animated fadeInUp">
                 <div class="card-body">
-                    <h3 class="fs-1"><span class="ctr me-1">241</span>+</h3>
+                    <h3 class="fs-1"><span class="ctr me-1">771</span>+</h3>
                     <p class="fs-sm font--medium mb-0 text-info">Northern Province</p>
                 </div>
             </div>
             <div class="card border-0 bg-light-danger rounded-4 mx-3 my-3 col-md-2 mt-4 wow animated fadeInUp">
                 <div class="card-body">
-                    <h3 class="fs-1"><span class="ctr me-1">216</span>+</h3>
+                    <h3 class="fs-1"><span class="ctr me-1">682</span>+</h3>
                     <p class="fs-sm font--medium mb-0 text-danger">Eastern Province</p>
                 </div>
             </div>
             <div class="card border-0 bg-light-info rounded-4 mx-3 my-3 col-md-2 mt-4 wow animated fadeInUp">
                 <div class="card-body">
-                    <h3 class="fs-1"><span class="ctr me-1">303</span>+</h3>
+                    <h3 class="fs-1"><span class="ctr me-1">922</span>+</h3>
                     <p class="fs-sm font--medium mb-0 text-info">Western Province</p>
                 </div>
             </div>
