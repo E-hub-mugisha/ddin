@@ -38,7 +38,7 @@
             <div class="col">
                 <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
                     <div class="position-relative text-center">
-                        <img src="assets/img/brand/yellowcard-logo.png" class="img-fluid" alt="" style="height:50px;">
+                        <img src="assets/img/brand/bk.png" class="img-fluid" alt="" style="height:50px;">
                     </div>
                 </div>
             </div>
@@ -52,11 +52,52 @@
             <div class="col">
                 <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
                     <div class="position-relative text-center">
-                        <img src="assets/img/brand/norrsken-logo.png" class="img-fluid" alt="" style="height:50px;">
+                        <img src="assets/img/brand/ecobank.png" class="img-fluid" alt="" style="height:50px;">
                     </div>
                 </div>
             </div>
-
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/fdi.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/mpost.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/old.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/pindo.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/rra.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-0 rounded-4 px-4 py-4 wow animated fadeInUp">
+                    <div class="position-relative text-center">
+                        <img src="assets/img/brand/ahupa.png" class="img-fluid" alt="" style="height:50px;">
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>
