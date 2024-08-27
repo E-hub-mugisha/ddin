@@ -39,7 +39,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi">
                     <div class="position-relative">
-                        <img src="assets/img/picture1.png" style="transform: rotate(15deg);" class="img-fluid" alt="">
+                        <img src="assets/img/picture1.png" class="img-fluid" alt="">
                     </div>
                     <!-- <div class="position-absolute start-0 bottom-0 pb-4 ps-4">
                         <div class="dlick-img mb-2"><img src="assets/img/lists-2.png" class="img-fluid rounded-2" width="190" alt=""></div>
