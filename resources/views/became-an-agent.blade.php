@@ -40,7 +40,7 @@
                 <div class="position-relative exloi mt-md-0 mt-4">
 
                     <div class="position-relative">
-                        <img src="assets/img/side-5.jpg" class="img-fluid rounded-4" alt="">
+                        <img src="{{ asset('assets/img/side-5.jpg')}}" class="img-fluid rounded-4" alt="">
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi">
                     <div class="position-relative">
-                        <img src="assets/img/blog-2.jpg" class="img-fluid rounded-3" alt="">
+                        <img src="{{ asset('assets/img/blog-2.jpg')}}" class="img-fluid rounded-3" alt="">
                     </div>
                 </div>
             </div>
@@ -81,10 +81,10 @@
 <!-- ============================ Call To Action ================================== -->
 <section class="p-lg-0 call-action-container bg-success position-relative">
     <div class="position-absolute top-0 end-0 z-0">
-        <img src="assets/img/alert-bg.png" alt="SVG" width="300">
+        <img src="{{ asset('assets/img/alert-bg.png')}}" alt="SVG" width="300">
     </div>
     <div class="position-absolute bottom-0 start-0 me-10 z-0">
-        <img src="assets/img/circle.png" alt="SVG" width="150">
+        <img src="{{ asset('assets/img/circle.png')}}" alt="SVG" width="150">
     </div>
     <div class="container">
         <div class="row justify-content-between align-items-center">
@@ -110,7 +110,7 @@
 
                 <div class="call-action-thumb d-lg-block d-none">
                     <div class="call-action-caption">
-                        <img src="assets/img/mob-app.png" class="img-fluid" alt="img app">
+                        <img src="{{ asset('assets/img/mob-app.png')}}" class="img-fluid" alt="img app">
                     </div>
                 </div>
 
@@ -145,7 +145,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi mt-md-0 mt-4 wow animated fadeInRight">
                     <div class="position-relative">
-                        <img src="assets/img/image1.png" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/image1.png')}}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi wow animated fadeInLeft">
                     <div class="position-relative">
-                        <img src="assets/img/image3.jpg" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/image3.jpg')}}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>

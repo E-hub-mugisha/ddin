@@ -66,7 +66,7 @@
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xl-offset-1 col-lg-offset-1">
                             <div class="position-relative wow animated fadeInRight">
-                                <img class="d-block position-relative z-2 img-fluid" src="assets/img/image_banner.png" alt="Nicolas Black">
+                                <img class="d-block position-relative z-2 img-fluid" src="{{ asset('assets/img/image_banner.png')}}" alt="Nicolas Black">
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xl-offset-1 col-lg-offset-1">
                             <div class="position-relative wow animated fadeInRight">
-                                <img class="d-block position-relative z-2 img-fluid" src="assets/img/about.png" alt="Another Image">
+                                <img class="d-block position-relative z-2 img-fluid" src="{{ asset('assets/img/about.png')}}" alt="Another Image">
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xl-offset-1 col-lg-offset-1 order-first">
                             <div class="position-relative wow animated fadeInRight">
-                                <img class="d-block position-relative z-2 img-fluid" src="assets/img/image4.png" style="width: 30rem; height: 38rem;" alt="Another Image">
+                                <img class="d-block position-relative z-2 img-fluid" src="{{ asset('assets/img/image4.png')}}" style="width: 30rem; height: 38rem;" alt="Another Image">
                             </div>
                         </div>
                     </div>

@@ -24,7 +24,7 @@
 
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                 <div class="position-relative mt-md-0 mt-4">
-                    <img class="d-block position-relative z-2 img-fluid" src="assets/img/mob-app.png" alt="Nicolas Black">
+                    <img class="d-block position-relative z-2 img-fluid" src="{{ asset('assets/img/mob-app.png')}}" alt="Nicolas Black">
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@
                         <div class="dlick-img mt-1 ps-4"><img src="assets/img/slip-2.png" class="img-fluid rounded-3" width="210" alt=""></div>
                     </div> -->
                     <div class="position-relative">
-                        <img src="assets/img/image8.jpg" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/image8.jpg')}}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -126,7 +126,7 @@
     </div>
     <div class="d-none d-lg-block col-md-5 position-absolute bg-cover top-0 end-0 h-100 rounded-start-5" style="background-image: url(assets/img/image7.jpg);"></div>
     <div class="d-lg-none px-4 wow animated fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
-        <img class="img-fluid rounded-3" src="assets/img/image7.jpg" alt="Image Description">
+        <img class="img-fluid rounded-3" src="{{ asset('assets/img/image7.jpg')}}" alt="Image Description">
     </div>
 </section>
 <div class="clearfix"></div>
@@ -195,7 +195,7 @@
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                 <div class="position-relative exloi wow animated fadeInRight mt-md-0 mt-4">
                     <div class="position-relative ps-4 pb-4">
-                        <img src="assets/img/image6.jpg" class="img-fluid rounded-3" alt="">
+                        <img src="{{ asset('assets/img/image6.jpg')}}" class="img-fluid rounded-3" alt="">
                     </div>
                     <!-- <div class="position-absolute bottom-0 start-0">
                         <img src="assets/img/image6.jpg" class="img-fluid rounded-2 shadow" width="230" alt="">
@@ -210,10 +210,10 @@
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                 <div class="position-relative exloi wow animated fadeInLeft">
                     <div class="position-relative pe-4 pb-4">
-                        <img src="assets/img/blog-4.jpg" class="img-fluid rounded-3" alt="">
+                        <img src="{{ asset('assets/img/blog-4.jpg')}}" class="img-fluid rounded-3" alt="">
                     </div>
                     <div class="position-absolute bottom-0 end-0">
-                        <img src="assets/img/img-3.png" class="img-fluid rounded-2 shadow" width="230" alt="">
+                        <img src="{{ asset('assets/img/img-3.png')}}" class="img-fluid rounded-2 shadow" width="230" alt="">
                     </div>
                 </div>
             </div>
@@ -251,7 +251,7 @@
 
             <div class="col-xl-5 col-lg-6 col-md-6 wow animated fadeInRight">
                 <div class="position-relative animated fadeInRight">
-                    <img src="assets/img/custom-img/cs-2.png" class="img-fluid" alt="">
+                    <img src="{{ asset('assets/img/custom-img/cs-2.png')}}" class="img-fluid" alt="">
                 </div>
             </div>
 
@@ -298,7 +298,7 @@
 
             <div class="col-xl-5 col-lg-6 col-md-6">
                 <div class="position-relative  wow animated fadeInRight mt-md-0 mt-4">
-                    <img src="assets/img/mob-app.png" class="img-fluid" alt="">
+                    <img src="{{ asset('assets/img/mob-app.png')}}" class="img-fluid" alt="">
                 </div>
             </div>
 

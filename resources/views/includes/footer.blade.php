@@ -13,9 +13,9 @@
                         <div class="foot-socials">
                             <ul>
                                 <li><a href="JavaScript:Void(0);"><i class="fa-brands fa-facebook"></i></a></li>
-                                <li><a href="JavaScript:Void(0);"><i class="fa-brands fa-linkedin"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/103228948/admin/dashboard/"><i class="fa-brands fa-linkedin"></i></a></li>
                                 <li><a href="JavaScript:Void(0);"><i class="fa-brands fa-google-plus"></i></a></li>
-                                <li><a href="JavaScript:Void(0);"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="https://x.com/DdinLtd"><i class="fa-brands fa-twitter"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -54,9 +54,7 @@
                             <li><a href="/">Home</a></li>
                             <li><a href="/about">About Us</a></li>
                             <li><a href="/contact">Contact Us</a></li>
-                            <li><a href="/became-an-agent">Became an agent</a></li>
-                            
-                            
+                            <li><a href="/became-an-agent">Became an agent</a></li> 
                         </ul>
                     </div>
                 </div>

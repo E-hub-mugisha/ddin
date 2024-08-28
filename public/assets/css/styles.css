@@ -346,13 +346,13 @@ html body .mdi-set {
   line-height: initial;
 }
 section{
-	padding:80px 0 80px;
+	padding:35px 0 35px;
 }
 section.min{
-	padding:50px 0 50px;
+	padding:35px 0 35px;
 }
 section.mid{
-	padding:80px 0 50px;
+	padding:35px 0 35px;
 }
 p {
     line-height:1.8;

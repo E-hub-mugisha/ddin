@@ -1,10 +1,10 @@
 <!-- ============================ Call To Action ================================== -->
 <section class="bg-cover call-action-container bg-dark position-relative">
     <div class="position-absolute bottom-0 end-0 z-0">
-        <img src="assets/img/alert-bg.png" alt="SVG" width="300">
+        <img src="{{ asset('assets/img/alert-bg.png')}}" alt="SVG" width="300">
     </div>
     <div class="position-absolute bottom-0 start-0 me-10 z-0">
-        <img src="assets/img/circle.png" alt="SVG" width="150">
+        <img src="{{ asset('assets/img/circle.png')}}" alt="SVG" width="150">
     </div>
     <div class="container position-relative">
         <div class="row">
@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="position-absolute bottom-0 end-0 me-5 z-0 d-md-flex d-none wow animated fadeInRight">
-        <img src="assets/img/about.png" alt="SVG" width="350">
+        <img src="{{ asset('assets/img/about.png')}}" alt="SVG" width="350">
     </div>
 </section>
 <!-- ============================ Call To Action End ================================== -->

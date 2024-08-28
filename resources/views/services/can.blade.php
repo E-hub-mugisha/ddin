@@ -42,7 +42,7 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="position-relative exloi">
                     <div class="position-relative">
-                        <img src="assets/img/image5.jpg" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/image5.jpg')}}" class="img-fluid" alt="">
                     </div>
                     <!-- <div class="position-absolute start-0 bottom-0 pb-4 ps-4">
                         <div class="dlick-img mb-2"><img src="assets/img/lists-2.png" class="img-fluid rounded-2" width="190" alt=""></div>
@@ -84,7 +84,7 @@
                 <div class="position-relative exloi mt-md-0 mt-4">
                     
                     <div class="position-relative">
-                        <img src="assets/img/image8.jpg" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/image8.jpg')}}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
     </div>
     <div class="d-none d-lg-block col-md-5 position-absolute bg-cover top-0 end-0 h-100 rounded-start-5" style="background-image: url(assets/img/image9.jpg);"></div>
     <div class="d-lg-none px-4 wow animated fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
-        <img class="img-fluid rounded-3" src="assets/img/image9.jpg" alt="Image Description">
+        <img class="img-fluid rounded-3" src="{{ asset('assets/img/image9.jpg')}}" alt="Image Description">
     </div>
 </section>
 
@@ -224,7 +224,7 @@
 
             <div class="col-xl-5 col-lg-6 col-md-6 wow animated fadeInRight">
                 <div class="position-relative animated fadeInRight">
-                    <img src="assets/img/custom-img/cs-2.png" class="img-fluid" alt="">
+                    <img src="{{ asset('assets/img/custom-img/cs-2.png')}}" class="img-fluid" alt="">
                 </div>
             </div>
 
@@ -291,7 +291,7 @@
 
             <div class="col-xl-5 col-lg-6 col-md-6">
                 <div class="position-relative  wow animated fadeInRight mt-md-0 mt-4">
-                    <img src="assets/img/mob-app.png" class="img-fluid" alt="">
+                    <img src="{{ asset('assets/img/mob-app.png')}}" class="img-fluid" alt="">
                 </div>
             </div>
 
