@@ -2,7 +2,7 @@
 @section('title','Became an Agent')
 @section('content')
 
-@include('includes.header')
+
 <link href="https://fonts.googleapis.com/css?family=Karla:400,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/4.8.95/css/materialdesignicons.min.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -113,50 +113,8 @@
                     <div class="content-wrapper">
                         <h4 class="section-heading">Enter your Employment details </h4>
                         <div class="row g-3 g-sm-4 mt-0 mt-lg-2">
-                            <div class="col-sm-6">
-                                <label class="form-label">Hitamo intara </label>
-                                <select class="form-select" name="province">
-                                    @foreach(\App\Models\Regions::distinct()->get(['province']) as $region)
-                                    <option {{{ (isset($agent->province) && $agent->province == '{{ $region->province }}') ? "selected=\"selected\"" : "" }}}>{{ $region->province }}</option>
-                                    @endforeach
-                                </select>
-                            </div>
-                            <div class="col-sm-6">
-                                <label class="form-label">Hitamo Akarere </label>
-                                <select class="form-select" name="district">
-                                    @foreach(\App\Models\Regions::distinct()->get(['district']) as $region)
-                                    <option {{{ (isset($agent->district) && $agent->district == '{{ $region->district }}') ? "selected=\"selected\"" : "" }}}>{{ $region->district }}</option>
-                                    @endforeach
-                                </select>
-                            </div>
-                            <div class="col-sm-6">
-                                <label class="form-label">Hitamo Umurenge </label>
-                                <select class="form-select" name="sector">
-                                    @foreach(\App\Models\Regions::distinct()->get(['sector']) as $region)
-                                    <option {{{ (isset($agent->sector) && $agent->sector == '{{ $region->sector }}') ? "selected=\"selected\"" : "" }}}>{{ $region->sector }}</option>
-                                    @endforeach
-                                </select>
-                            </div>
-                            <div class="col-sm-6">
-                                <label class="form-label">Hitamo akagari </label>
-                                <select class="form-select" name="cell">
-                                    @foreach(\App\Models\Regions::distinct()->get(['cell']) as $region)
-                                    <option {{{ (isset($agent->cell) && $agent->cell == '{{ $region->cell }}') ? "selected=\"selected\"" : "" }}}>{{ $region->cell }}</option>
-                                    @endforeach
-                                </select>
-                            </div>
-                            <div class="col-sm-6">
-                                <label class="form-label">Hitamo umudugudu </label>
-                                <select class="form-select" name="village">
-                                    @foreach(\App\Models\Regions::distinct()->get(['village']) as $region)
-                                    <option {{{ (isset($agent->village) && $agent->village == '{{ $region->village }}') ? "selected=\"selected\"" : "" }}}>{{ $region->village }}</option>
-                                    @endforeach
-                                </select>
-                            </div>
-                            <div class="col-sm-6">
-                                <label class="form-label">Andika Isibo</label>
-                                <input type="text" class="form-control" id="isibo" name="isibo" />
-                            </div>
+                            @include('agentsProfile.form')
+                            
                             @if ($errors->any())
                             <div class="alert alert-danger">
                                 <ul>
@@ -394,5 +352,5 @@
 <script src="{{ asset('assets/assets/js/jquery.steps.min.js')}}"></script>
 <script src="{{ asset('assets/assets/js/bd-wizard.js')}}"></script>
 <script src="{{ asset('assets/assets/js/bootstrap-select.min.js')}}"></script>
-@include('includes.footer')
+
 @endsection
